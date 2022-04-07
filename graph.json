@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "-path:node_modules -path:packages",
+  "collapse-filter": false,
+  "search": "path:_docs",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
